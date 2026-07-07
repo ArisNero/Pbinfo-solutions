@@ -1,3 +1,7 @@
 Pbinfo.vcxproj
 Pbinfo.vcxproj.filters
 Pbinfo.vcxproj.user
+*.exe
+*.obj
+!README.md
+x64/
